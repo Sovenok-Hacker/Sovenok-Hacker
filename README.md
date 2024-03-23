@@ -1,16 +1,54 @@
-### Hi there 👋
+## About me
+- Name: __Artem__
+- Age: __13__
+- I live in __🇷🇺Moscow__
+- __Native Russian speaker__
+### I am ...
+- [x] 🐧Experienced Linux user
+- [x] 🐍Experienced Python programmer
+- [x] ⛓Blockchain and cryptocurrency enthusiast
+- [x] 🦉Big fan of owls🦉
+### I am learning ...
+- __🏴󠁧󠁢󠁥󠁮󠁧󠁿English (already B1)__
+- [🦀Rust](https://rust-lang.org/)
+- [💤Zig](https://ziglang.org/)
+- [🎮Godot](https://godotengine.org/)
+- 🕸Front-end
+- 🧠AI
+### I dream about making my own ...
+- [ ] OS Kernel
+- [ ] Linux distribution
+- [ ] Decentralised and production-ready blockchain
+### I am working on ...
+- [AploCoin](https://github.com/AploCoin)
+- ElfOwl Telegram Userbot
 
-<!--
-**Sovenok-Hacker/Sovenok-Hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+- Имя: __Артём__
+- Возраст: __13__
+- Живу в __🇷🇺Москве__
+- Носитель русского языка
+### Я ...
+- [x] 🐧 Опытный пользователь Linux
+- [x] 🐍 Опытный программист на Python
+- [x] ⛓Блокчейн энтузиаст
+- [x] 🦉Большой поклонник сов🦉
+### Изучаю
+- __🏴󠁧󠁢󠁥󠁮󠁧󠁿Английский (уже B1)__
+- [🦀Rust](https://rust-lang.org/)
+- [💤Zig](https://ziglang.org/)
+- [🎮Godot](https://godotengine.org/)
+- 🕸Фронт-энд
+- 🧠AI
+### Мечтаю создать  ...
+- [ ] Ядро ОС
+- [ ] Дистрибутив Linux
+- [ ] Децентрализованный и готовый к использованию блокчейн
+### Работаю над ...
+- [AploCoin](https://github.com/AploCoin)
+- Telegram-юзербот ElfOwl
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Streak stats:
+![GitHub Streak](https://github-readme-streak-stats-three-nu.vercel.app?user=Sovenok-Hacker&theme=tokyonight&hide_border=true)
+### Page visits:
+![Visits counter](https://profile-counter.glitch.me/{Sovenok-Hacker}/count.svg)
