@@ -13,7 +13,7 @@
 - [🦀Rust](https://rust-lang.org/)
 - [💤Zig](https://ziglang.org/)
 - [🎮Godot](https://godotengine.org/)
-- 🕸Front-end
+- [📲Flutter](https://flutter.dev/)
 - 🧠AI
 ### I dream about making my own ...
 - [ ] OS Kernel
@@ -38,7 +38,7 @@
 - [🦀Rust](https://rust-lang.org/)
 - [💤Zig](https://ziglang.org/)
 - [🎮Godot](https://godotengine.org/)
-- 🕸Фронт-энд
+- [📲Flutter](https://flutter.dev/)
 - 🧠AI
 ### Мечтаю создать  ...
 - [ ] Ядро ОС
