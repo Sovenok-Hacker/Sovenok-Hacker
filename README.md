@@ -1,6 +1,6 @@
 ## About me
 - Name: __Artem__
-- Age: __13__
+- Age: __14__
 - I live in __🇷🇺Moscow__
 - __Native Russian speaker__
 ### I am ...
@@ -20,12 +20,11 @@
 - [ ] Linux distribution
 - [ ] Decentralised and production-ready blockchain
 ### I am working on ...
-- [AploCoin](https://github.com/AploCoin)
-- ElfOwl Telegram Userbot
+- BudgieDB
 
 ## Обо мне
 - Имя: __Артём__
-- Возраст: __13__
+- Возраст: __14__
 - Живу в __🇷🇺Москве__
 - Носитель русского языка
 ### Я ...
@@ -45,8 +44,7 @@
 - [ ] Дистрибутив Linux
 - [ ] Децентрализованный и готовый к использованию блокчейн
 ### Работаю над ...
-- [AploCoin](https://github.com/AploCoin)
-- Telegram-юзербот ElfOwl
+- BudgieDB
 
 ### Streak stats:
 ![GitHub Streak](https://github-readme-streak-stats-three-nu.vercel.app?user=Sovenok-Hacker&theme=tokyonight&hide_border=true)
