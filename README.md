@@ -24,4 +24,4 @@
 ### Streak stats:
 ![GitHub Streak](https://github-readme-streak-stats-three-nu.vercel.app?user=Sovenok-Hacker&theme=tokyonight&hide_border=true)
 ### Page visits:
-![Visits counter](https://profile-counter.glitch.me/{Sovenok-Hacker}/count.svg)
+![Visits counter](https://komarev.com/ghpvc/?username=Sovenok-Hacker)
